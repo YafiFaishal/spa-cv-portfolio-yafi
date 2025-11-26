@@ -1,0 +1,143 @@
+{
+  "id": 12,
+  "slug": "muhammad-yafi-faishal-l200240225",
+  "profile": {
+    "full_name": "Muhammad Yafi Faishal",
+    "nim": "L200240225",
+    "prodi": "Teknik Informatika",
+    "angkatan": "2024",
+    "photo_url": "/profile.jpeg",
+    "headline": "Fullstack Web Developer | Junior IT",
+    "short_bio": "Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada Fullstack Web Development. Berdedikasi untuk mengembangkan aplikasi web yang fungsional dan responsif, serta terus memperdalam pemahaman tentang teknologi Frontend dan Backend modern.",
+    "location": "Sukoharjo, Jawa Tengah",
+    "portfolio_url": "https://github.com/yafifaishal"
+  },
+  "skills": [
+    {
+      "id": 1,
+      "name": "ReactJS",
+      "category": "technical",
+      "level": "Basic",
+      "is_main": true,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+    },
+    {
+      "id": 2,
+      "name": "Django REST Framework",
+      "category": "technical",
+      "level": "Basic - Intermediate",
+      "is_main": true,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"
+    },
+    {
+      "id": 3,
+      "name": "Tailwind CSS",
+      "category": "technical",
+      "level": "Intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg"
+    },
+    {
+      "id": 4,
+      "name": "HTML",
+      "category": "technical",
+      "level": "Advanced",
+      "is_main": false,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+    },
+    {
+      "id": 5,
+      "name": "CSS",
+      "category": "technical",
+      "level": "Intermediate",
+      "is_main": false,
+      "years_of_experience": 2,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+    },
+    {
+      "id": 6,
+      "name": "JavaScript",
+      "category": "technical",
+      "level": "Basic - Intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    },
+    {
+      "id": 7,
+      "name": "Dasar Database & API Integration",
+      "category": "technical",
+      "level": "Intermediate",
+      "is_main": false,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn-icons-png.flaticon.com/512/4248/4248443.png"
+    },
+    {
+      "id": 8,
+      "name": "Java",
+      "category": "technical",
+      "level": "Intermediate",
+      "is_main": true,
+      "years_of_experience": 1,
+      "icon_url": "https://cdn-icons-png.flaticon.com/512/226/226777.png"
+    }
+  ],
+  "experiences": [
+    {
+      "id": 101,
+      "title": "Participant - Web Development Bootcamp",
+      "organization": "Dicoding Indonesia",
+      "experience_type": "organization",
+      "start_date": "2024-06-01",
+      "end_date": "2024-08-31",
+      "is_current": false,
+      "description": "Mengikuti bootcamp intensif web development selama 3 bulan. Mempelajari fundamental HTML, CSS, JavaScript, dan dasar-dasar ReactJS. Menyelesaikan 5+ project praktik termasuk landing page, to-do app, dan portfolio website. Mendapatkan sertifikat kompetensi di bidang frontend development.",
+      "technologies": [
+        "HTML5",
+        "CSS3",
+        "JavaScript",
+        "ReactJS",
+        "Git"
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Volunteer Web Developer",
+      "organization": "Komunitas Web Developer Online",
+      "experience_type": "organization",
+      "start_date": "2024-09-01",
+      "end_date": "2024-11-30",
+      "is_current": false,
+      "description": "Berkontribusi sebagai volunteer developer untuk membangun website informasi kegiatan masjid kampus. Bertanggung jawab pada frontend development menggunakan modern web technologies. Berkolaborasi dengan tim desainer dan backend developer dalam agile workflow.",
+      "technologies": [
+        "ReactJS",
+        "Tailwind CSS",
+        "Firebase",
+        "Git"
+      ]
+    },
+    {
+      "id": 104,
+      "title": "Smart AI Personal Assistant",
+      "organization": "Proyek Mandiri",
+      "experience_type": "project",
+      "start_date": "2024-10-01",
+      "end_date": "2024-11-20",
+      "is_current": false,
+      "description": "Membangun aplikasi chatbot cerdas berbasis web yang terintegrasi dengan OpenAI API. Fitur utama mencakup tanya-jawab real-time, code debugging helper, dan penyimpanan riwayat chat (chat history) menggunakan LocalStorage. Fokus pada penanganan asinkronus (async/await) dan manajemen state yang efisien.",
+      "technologies": [
+        "React.js",
+        "OpenAI API",
+        "Axios",
+        "LocalStorage",
+        "CSS Modules"
+      ]
+    }
+  ],
+  "statistics": {
+    "views_count": 127,
+    "profile_complete_percent": 92
+  }
+}
