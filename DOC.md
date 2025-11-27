@@ -45,10 +45,8 @@ Kemudian akses URL preview yang ditampilkan di terminal.
 
 Aplikasi ini telah dideploy secara online sehingga dapat diakses publik.
 
-- Platform: **[Vercel / Netlify]**  
-- Deployment URL: [**https://[nama-project-kamu].vercel.app**](https://[nama-project-kamu].vercel.app)  
-
-> Ganti teks di atas dengan URL deployment milikmu sendiri.
+- Platform: **Vercel**
+- Deployment URL: [**https://spa-cv-portfolio-yafi-faishal.vercel.app/**](https://spa-cv-portfolio-yafi-faishal.vercel.app/)
 
 ---
 
@@ -57,11 +55,13 @@ Aplikasi ini telah dideploy secara online sehingga dapat diakses publik.
 Berikut beberapa cuplikan tampilan aplikasi:
 
 1. **Tampilan halaman utama portfolio** – berisi hero section dengan foto profil, nama, informasi singkat, dan tombol “Visit Portfolio”.  
+   ![Main portfolio](./public/main-profile.png)
+
 2. **Section Skills & Expertise** – menampilkan kartu skill seperti ReactJS, Django REST Framework, Tailwind CSS, HTML, CSS, JavaScript, dan lain‑lain dengan progress bar sesuai level.  
+   ![Skills section](./public/skills-expertise.png)
+
 3. **Section Experience** – menampilkan timeline pengalaman seperti freelance project, internship, organisasi kampus, dan project mandiri dengan badge kategori (project, organization, internship).  
-4. **Tampilan akhir portfolio setelah data pribadi diisi** – menunjukkan kombinasi warna utama yang konsisten dengan foto profil dan brand personal.
+   ![Experience section](./public/experience.png)
 
-Tambahkan file screenshot (misalnya `screenshot-1.png`, `screenshot-2.png`, dll.) di folder project dan sesuaikan deskripsinya jika diperlukan.
-
-
-
+4. **Tampilan akhir portfolio setelah data pribadi diisi** – menunjukkan kombinasi warna utama yang konsisten dengan foto profil dan brand personal.  
+   ![Final result](./public/result.png)
